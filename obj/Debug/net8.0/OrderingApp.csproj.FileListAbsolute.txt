@@ -12,3 +12,4 @@ F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\refint\OrderingApp
 F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.pdb
 F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.genruntimeconfig.cache
 F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\ref\OrderingApp.dll
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.sourcelink.json
