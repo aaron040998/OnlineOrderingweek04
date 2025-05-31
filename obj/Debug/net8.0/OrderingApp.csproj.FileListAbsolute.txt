@@ -1,0 +1,14 @@
+F:\BYU\term3\program-class\week4\OrderingApp\bin\Debug\net8.0\OrderingApp.exe
+F:\BYU\term3\program-class\week4\OrderingApp\bin\Debug\net8.0\OrderingApp.deps.json
+F:\BYU\term3\program-class\week4\OrderingApp\bin\Debug\net8.0\OrderingApp.runtimeconfig.json
+F:\BYU\term3\program-class\week4\OrderingApp\bin\Debug\net8.0\OrderingApp.dll
+F:\BYU\term3\program-class\week4\OrderingApp\bin\Debug\net8.0\OrderingApp.pdb
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.AssemblyInfoInputs.cache
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.AssemblyInfo.cs
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.csproj.CoreCompileInputs.cache
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.dll
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\refint\OrderingApp.dll
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.pdb
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\OrderingApp.genruntimeconfig.cache
+F:\BYU\term3\program-class\week4\OrderingApp\obj\Debug\net8.0\ref\OrderingApp.dll
